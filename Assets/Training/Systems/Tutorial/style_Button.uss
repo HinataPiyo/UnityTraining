@@ -1,0 +1,31 @@
+:root {
+}
+
+.button {
+    font-size: 96px;
+    -unity-text-align: middle-center;
+    scale: 1 1;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+    border-top-left-radius: 42px;
+    border-top-right-radius: 42px;
+    border-bottom-right-radius: 42px;
+    border-bottom-left-radius: 42px;
+    background-color: rgb(255, 255, 227);
+}
+
+.button:hover {
+    scale: 1.1 1.1;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+    background-color: rgb(177, 255, 183);
+}
+
+.button:active {
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+    scale: 0.98 0.98;
+    background-color: rgb(255, 160, 160);
+}
+
+
