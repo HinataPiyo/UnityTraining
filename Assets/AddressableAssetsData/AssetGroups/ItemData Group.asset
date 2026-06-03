@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemData Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: ItemData Group
+  m_GUID: 740c04c3406ebcb4f9cff258c3928f6c
+  m_SerializeEntries:
+  - m_GUID: 61b1732fa58c6b64e9cbf4be1388200c
+    m_Address: Assets/Training/Systems/Addressable Training/ItemDataSO 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ItemDataSO
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 748b5591b8ca3e849a582d0d5be1a079
+    m_Address: Assets/Training/Systems/Addressable Training/ItemDataSO 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ItemDataSO
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb3de16290302ed4bb987fcfaea1ee48
+    m_Address: Assets/Training/Systems/Addressable Training/ItemDataSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ItemDataSO
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4bcb88aff12fa1f44af45aeeeeac6965, type: 2}
+  m_SchemaSet:
+    m_Schemas: []
