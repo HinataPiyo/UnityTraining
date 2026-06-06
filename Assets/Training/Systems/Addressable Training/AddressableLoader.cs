@@ -5,7 +5,7 @@ using UnityEngine.ResourceManagement.AsyncOperations; // 必須
 public class AddressableLoader : MonoBehaviour
 {
     // 方法①：文字列（アドレス名）で指定する場合
-    [SerializeField] private string addressName = "address";
+    // [SerializeField] private string addressName = "address";
 
     // 方法②：インスペクター上で安全にアセットを指定したい場合（推奨）
     [SerializeField] private AssetReference assetReference;
