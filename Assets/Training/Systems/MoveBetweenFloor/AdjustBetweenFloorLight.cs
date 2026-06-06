@@ -1,4 +1,4 @@
-namespace MoveBetweenFloor
+namespace Systems.MoveBetweenFloor
 {
     using UnityEngine;
     using UnityEngine.Rendering.Universal;
